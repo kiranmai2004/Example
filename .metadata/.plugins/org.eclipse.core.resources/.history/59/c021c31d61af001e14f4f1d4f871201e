@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module Testing {
+	requires org.seleniumhq.selenium.api;
+}
